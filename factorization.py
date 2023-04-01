@@ -19,4 +19,3 @@ def primef(n):
 
 
 print(primef(int(sys.argv[1])))
-
